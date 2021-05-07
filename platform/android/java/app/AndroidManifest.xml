@@ -38,6 +38,7 @@
             android:screenOrientation="landscape"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
             android:resizeableActivity="false"
+            android:isGame="true"
             tools:ignore="UnusedAttribute" >
 
             <!-- Focus awareness metadata is removed at export time if the xr mode is not VR. -->
